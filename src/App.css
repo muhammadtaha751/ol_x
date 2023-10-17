@@ -1,0 +1,15 @@
+.ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+body{
+    overflow-x: scroll;
+}
+.banner{
+    overflow-x: scroll;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
